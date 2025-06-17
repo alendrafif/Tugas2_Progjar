@@ -8,7 +8,7 @@ Repositori ini berisi implementasi program **Time Server TCP multithreaded** unt
 
 ---
 
-## 🛠️ Fitur Server
+## Fitur Server
 
 -  Menggunakan **port 45000** dan protokol **TCP**
 -  Menangani banyak klien secara **concurrent** menggunakan 
@@ -19,7 +19,7 @@ Repositori ini berisi implementasi program **Time Server TCP multithreaded** unt
 
 ---
 
-## 📄 Format Protokol
+## Format Protokol
 
 ### Request dari Klien:
 - `"TIME\r\n"` → meminta waktu sekarang
